@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b84b7ec-e9f5-4790-9dfd-2207420d41b6" name="Changes" comment="delete">
-      <change afterPath="$PROJECT_DIR$/dz.py" afterDir="false" />
+    <list default="true" id="8b84b7ec-e9f5-4790-9dfd-2207420d41b6" name="Changes" comment="DZ 07.07.2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.07.2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/07.07.2024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.07.07.2024.executor": "Run",
     "Python.dz.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,13 +94,39 @@
       <option name="project" value="LOCAL" />
       <updated>1722164539704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new file">
+      <option name="closed" value="true" />
+      <created>1722164901311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722164901311</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DZ 07.07.2024">
+      <option name="closed" value="true" />
+      <created>1722164995968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722164995968</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DZ 07.07.2024">
+      <option name="closed" value="true" />
+      <created>1722165055261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722165055261</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Give file" />
     <MESSAGE value="home1" />
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="new file" />
+    <MESSAGE value="DZ 07.07.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ 07.07.2024" />
   </component>
 </project>
